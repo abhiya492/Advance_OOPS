@@ -1,0 +1,7 @@
+##🔥 2️⃣ Design Pattern: Singleton (Database Connection)
+#💡 Goal:
+    Ensure only ONE instance of a database connection exists in a program.
+    Use the Singleton pattern.
+
+✅ Why use Singleton?
+Prevent multiple database connections from being created, which wastes resources.

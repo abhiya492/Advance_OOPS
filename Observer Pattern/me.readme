@@ -1,0 +1,4 @@
+##🔥 4️⃣ Observer Pattern (Stock Price Alerts)
+#💡 Goal:
+    Notify subscribers whenever the stock price changes.
+    Use the Observer Pattern (used in real-world event-driven systems).

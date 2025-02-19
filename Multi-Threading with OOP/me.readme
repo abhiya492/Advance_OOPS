@@ -1,0 +1,9 @@
+🔥 1️⃣ Multi-Threading with OOP (Bank System)
+💡 Goal:
+Simulate multiple users withdrawing money from a shared bank account at the same time.
+Use multi-threading to avoid race conditions.
+Use Locks to ensure thread safety.
+
+✅ Why is Lock important?
+
+Without it, two threads could withdraw at the same time, causing an incorrect balance.
