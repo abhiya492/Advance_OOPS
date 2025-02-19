@@ -1,0 +1,7 @@
+##🔥 5️⃣ Thread Pool Executor (Fast Multi-Threading)
+#💡 Goal:
+    Use ThreadPoolExecutor for efficient multi-threading.
+
+#✅ Why ThreadPoolExecutor?
+    Automatically manages multiple threads.
+    Prevents overloading the CPU with too many threads.

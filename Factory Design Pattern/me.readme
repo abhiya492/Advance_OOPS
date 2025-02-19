@@ -1,0 +1,7 @@
+##🔥 3️⃣ Factory Design Pattern (Vehicle Factory)
+#💡 Goal:
+    A factory function that creates different types of vehicles.
+
+#✅ Why use Factory Pattern?
+    Encapsulation: Clients don’t need to know which class to instantiate.
+    Extensibility: Easily add new vehicle types.

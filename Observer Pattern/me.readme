@@ -2,3 +2,6 @@
 #💡 Goal:
     Notify subscribers whenever the stock price changes.
     Use the Observer Pattern (used in real-world event-driven systems).
+
+✅ Why use Observer Pattern?
+    Used in real-time systems like stock alerts, event listeners, notification systems.
